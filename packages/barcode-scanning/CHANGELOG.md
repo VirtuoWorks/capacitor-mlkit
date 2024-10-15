@@ -2,6 +2,8 @@
 
 ## 6.2.1
 
+[`b136837`](https://github.com/VirtuoWorks/capacitor-mlkit/commit/b1368372a84d3d8538b1bcd42fde65fb23e33511): (fix): adding autofocus to barcode scanning for ios version
+
 ## 6.2.0
 
 ### Minor Changes
