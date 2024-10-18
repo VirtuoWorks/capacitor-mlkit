@@ -1,5 +1,10 @@
 # Changelog
 
+## 7.0.1
+
+### Patch Changes
+- [`92a03498`](https://github.com/capawesome-team/capacitor-mlkit/commit/92a03498f9db71bf09fc9f31479025522501767d): fix: add autofocus to barcode scanning for ios version
+
 ## 7.0.0-next.0
 
 ### Patch Changes
